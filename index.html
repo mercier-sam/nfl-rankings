@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFL Predicted Standings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>NFL Predicted Standings for the 2024 Season</h1>
+        <p>Explore our incredibly thought-out predictions for each NFL team, by division and conference.</p>
+
+        <div id="trophy-container">
+            <img src="assets/shiva.jpg" alt="Trophy" id="trophy-image">
+            <p id="custom-message">Welcome to the Only Ranking that Matters Boys!</p>
+        </div>
+    </header>
+
+    <div class="toggle-buttons">
+        <button id="afc-btn" class="active">AFC</button>
+        <button id="nfc-btn">NFC</button>
+        <button id="playoffs-btn">Playoffs</button>
+        <button id="awards-btn">Awards</button>
+    </div>
+
+    <main>
+        <div id="standings-afc" class="standings-view"></div>
+        <div id="standings-nfc" class="standings-view hidden"></div>
+
+        <!-- Playoff Bracket -->
+        <div id="playoffs-view" class="standings-view hidden">
+            <h2>Playoffs Bracket</h2>
+            <div id="bracket">
+                <!-- Wild Card Round -->
+                <div class="round round-1">
+                    <h3>Wild Card Round</h3>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                </div>
+
+                <!-- Divisional Round -->
+                <div class="round round-2">
+                    <h3>Divisional Round</h3>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                </div>
+
+                <!-- Conference Finals -->
+                <div class="round round-3">
+                    <h3>Conference Finals</h3>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                </div>
+
+                <!-- Super Bowl -->
+                <div class="round round-4">
+                    <h3>Super Bowl</h3>
+                    <div class="matchup">
+                        <div class="team team-1"></div>
+                        <div class="team team-2"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Awards Section -->
+        <div id="awards-view" class="standings-view hidden">
+            <h2>NFL Awards</h2>
+            <table class="awards-table">
+                <thead>
+                    <tr>
+                        <th>Award</th>
+                        <th>Winner</th>
+                        <th>Team</th>
+                    </tr>
+                </thead>
+                <tbody id="awards-body"></tbody>
+            </table>
+        </div>
+    </main>
+
+    <footer>
+        <p>Predictions by the Eye Test for you animals. Updated for the 2024 season.</p>
+    </footer>
+
+    <script src="standings.js"></script>
+</body>
+</html>
