@@ -1,0 +1,244 @@
+{
+    "AFC": {
+        "AFC East": [
+            {
+                "team": "New York Jets",
+                "position": 1,
+                "blurb": "The Jets are officially going to get more than one play out of Aaron and win this competitve division with a talented roster"
+            },
+            {
+                "team": "Buffalo Bills",
+                "position": 2,
+                "blurb": "A team that has lost some talent but still has a good overall chance to win quite a few games."
+            },
+            {
+                "team": "Miami Dolphins",
+                "position": 3,
+                "blurb": "If Tua Tagovailoa stays healthy, expect the Dolphins to challenge for the top spot."
+            },
+            {
+                "team": "New England Patriots",
+                "position": 4,
+                "blurb": "The are actually so poopy I don't even have a positive thing to say."
+            }
+        ],
+        "AFC North": [
+            {
+                "team": "Baltimore Ravens",
+                "position": 1,
+                "blurb": "This Ravens team has struggled to top the mountain but they always find a way to be successful in the regular season"
+            },
+            {
+                "team": "Cleveland Browns",
+                "position": 2,
+                "blurb": "The Browns have talent and this year Stefanski manages to simplify the offense for a more productive year."
+            },
+            {
+                "team": "Pittsburgh Steelers",
+                "position": 3,
+                "blurb": "A rebuilding year for the Steelers, as they search for their next real quarterback but somehow they stumble once again into a winning season"
+            },
+            {
+                "team": "Cincinnati Bengals",
+                "position": 4,
+                "blurb": "Joe Burrow takes a step back unfortunately this year and Cincy struggles"
+            }
+            
+        ],
+        "AFC South": [
+            {
+                "team": "Houston Texans",
+                "position": 1,
+                "blurb": "The Texans are finished their rebuild and are firing on all cylinders to claim this mediocre division."
+            },
+            {
+                "team": "Indianapolis Colts",
+                "position": 2,
+                "blurb": "The Colts have potential and with a healthy season from Richardson and a good campaign from JT they find their way a bit more."
+            },
+            {
+                "team": "Jacksonville Jaguars",
+                "position": 3,
+                "blurb": "A young team with promise, but the Jaguars are still finding their way."
+            },
+            {
+                "team": "Tennessee Titans",
+                "position": 4,
+                "blurb": "This team should probably admit that Will Levis is not that guy and start over "
+            }
+        ],
+        "AFC West": [
+            {
+                "team": "Kansas City Chiefs",
+                "position": 1,
+                "blurb": "Patrick Mahomes and the Chiefs are the clear favorites to dominate the AFC again."
+            },
+            {
+                "team": "Los Angeles Chargers",
+                "position": 2,
+                "blurb": "With Justin Herbert at the helm again we get to find out if Harbaugh can turn this aging ship around."
+            },
+            {
+                "team": "Denver Broncos",
+                "position": 3,
+                "blurb": "The Broncos are going to be quite bad but hopefully they can learn from their mistakes."
+            },
+            {
+                "team": "Las Vegas Raiders",
+                "position": 4,
+                "blurb": "Despite some talent, the Raiders face too many obstacles to climb higher in this stacked division (like starting Gardner at QB)."
+            }
+        ]
+    },
+    "NFC": {
+        "NFC East": [
+
+            {
+                "team": "Philadelphia Eagles",
+                "position": 1,
+                "blurb": "Jalen Hurts and a strong defense make the Eagles a serious contender."
+            },
+            {
+                "team": "Dallas Cowboys",
+                "position": 2,
+                "blurb": "The Cowboys' could compete heavily this season but will find a way to lose the big games."
+            },
+            {
+                "team": "Washington Commanders",
+                "position": 3,
+                "blurb": "The Commanders need stability at quarterback to challenge the top teams. Hopefully Jayden Daniels is the answer to their search."
+            },
+            {
+                "team": "New York Giants",
+                "position": 4,
+                "blurb": "The Giants are still rebuilding but picked up a new stud WR. Unfortunately they just paid Danny Dimes $40 mil a year."
+            }
+        ],
+        "NFC North": [
+            {
+                "team": "Green Bay Packers",
+                "position": 1,
+                "blurb": "Jordan Love and the Pack reclaim their spot atop the NFC North."
+            },
+            {
+                "team": "Detroit Lions",
+                "position": 2,
+                "blurb": "The Lions are immaculate vibes and I would love for them to win this division but they struggle a bit in the regular season this year."
+            },
+            {
+                "team": "Chicago Bears",
+                "position": 3,
+                "blurb": "The Bears newly revamped offense and Caleb Williams lead them to a respectable first campaign in a tough division."
+            },
+            {
+                "team": "Minnesota Vikings",
+                "position": 4,
+                "blurb": "The Vikings are a solid team, but they'll need to overcome the loss of a promising JJ McCarthy to compete this year and it seems like they won't be able to do so."
+            }
+        ],
+        "NFC South": [
+            {
+                "team": "Atlanta Falcons",
+                "position": 1,
+                "blurb": "The Falcons and Kirko Chains lay a beating on a truly awful division."
+            },
+            {
+                "team": "Tampa Bay Buccaneers",
+                "position": 2,
+                "blurb": "Baker Mayfield leads the Bucs to a respectable 2nd in a soft division."
+            },
+            {
+                "team": "New Orleans Saints",
+                "position": 3,
+                "blurb": "The Saints manage to survive a year when they should give up and admit that they are in desperate need of a rebuild"
+            },
+            {
+                "team": "Carolina Panthers",
+                "position": 4,
+                "blurb": "The Panthers struggle once again but start to show some signs of promise with a young QB who is establishing himself a bit."
+            }
+        ],
+        "NFC West": [
+            {
+                "team": "San Francisco 49ers",
+                "position": 1,
+                "blurb": "With their elite defense and strong run game, the 49ers are the team to beat in the NFC West."
+            },
+            {
+                "team": "Seattle Seahawks",
+                "position": 3,
+                "blurb": "The Seahawks could surprise a few teams this season. A new coach shakes up the Hawks enough to win a few extra games."
+            },
+            {
+                "team": "Los Angeles Rams",
+                "position": 2,
+                "blurb": "The LA Rams struggle to compete in a tough division and ultimately finish below expectations."
+            },
+            {
+                "team": "Arizona Cardinals",
+                "position": 4,
+                "blurb": "The Cardinals face a tough schedule and may struggle to keep up with their division rivals."
+            }
+        ]
+    },
+    "Awards": [
+        {
+            "award": "MVP",
+            "winner": "Patrick Mahomes",
+            "team": "Kansas City Chiefs"
+        },
+        {
+            "award": "Offensive Player of the Year",
+            "winner": "Breece Hall",
+            "team": "Ney York Jets"
+        },
+        {
+            "award": "Defensive Player of the Year",
+            "winner": "Myles Garrett",
+            "team": "Cleveland Browns"
+        },
+        {
+            "award": "Offensive Rookie of the Year",
+            "winner": "Caleb Williams",
+            "team": "Atlanta Falcons"
+        },
+        {
+            "award": "Defensive Rookie of the Year",
+            "winner": "Laiatu Latu",
+            "team": "Atlanta Falcons"
+        },
+        {
+            "award": "Coach of the Year",
+            "winner": "Robert Saleh",
+            "team": "New York Jets"
+        },
+        {
+            "award": "NVP",
+            "winner": "Jamaal Williams",
+            "team": "New Orleans Saints"
+        }
+    ],
+    "Playoffs": {
+        "Wild Card": [
+            {"team1": "2 Baltimore Ravens", "team2": "7 Miami Dolphins"},
+            {"team1": "3 Houston Texans", "team2": "6 Cleveland Browns"},
+            {"team1": "4 New York Jets", "team2": "5 Buffalo Bills"},
+            {"team1": "2 Green Bay Packers", "team2": "7 Tampa Bay Buccaneers"},
+            {"team1": "3 Atlanta Falcons", "team2": "6 Dallas Cowboys"},
+            {"team1": "4 San Francisco 49ers", "team2": "5 Detroit Lions"}
+        ],
+        "Divisional": [
+            {"team1": "1 Kansas City Chiefs", "team2": "4 New York Jets"},
+            {"team1": "2 Baltimore Ravens", "team2": "3 Houston Texans"},
+            {"team1": "1 Philadelphia Eagles", "team2": "6 Dallas Cowboys"},
+            {"team1": "2 Green Bay Packers", "team2": "5 Detroit Lions"}
+        ],
+        "Conference Finals": [
+            {"team1": "1 Kansas City Chiefs", "team2": "3 Houston Texans"},
+            {"team1": "1 Philadelphia Eagles", "team2": "5 Detroit Lions"}
+        ],
+        "Super Bowl": [
+            {"team1": "AFC Kansas City Chiefs", "team2": "NFC Detroit Lions"}
+        ]
+    }
+}
